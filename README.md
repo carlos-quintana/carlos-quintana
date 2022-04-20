@@ -22,6 +22,6 @@ I'm passionate about building beautiful web applications, and I'm expanding my s
 
 📝 I also have experience working with **Java**, **Python** and **PHP**.
 
-👓 I love to learn new technologies, and I'm currently learning **Node.js** to write JavaScript on the backend, and also automation testing with  **Cypress**.
+👓 I love to learn new technologies, and I'm currently learning **Node.js** to write JavaScript on the backend, and also automation end-to-end testing with  **Puppeteer**.
 
 ✉ Let's get in contact! Reach me through my [LinkedIn](https://www.linkedin.com/in/carlos-quintana-a82541225/) or my [Porfolio contact form](https://carlos-quintana.github.io/#contact).
