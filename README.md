@@ -12,16 +12,22 @@ I'm passionate about building beautiful web applications, and I'm expanding my s
 
 
 💻 Some of the technologies I'm working with are:
+
+Frontend:
 - **HTML 5**, **CSS 3** and **SASS**.
 - **JavaScript** and **TypeScript**.
 - **React JS**.
-- Writing tests with **JEST**.
+- **Angular**
+
+Backend:
+- **Node.js**
+- **Spring Boot (Java)**
 - **API REST** and **Fetch API**.
-- Relational databases and **SQL** with MariaDB (MySQL) and PostgreSQL.
+- Relational databases and **SQL** with MariaDB (MySQL), PostgreSQL or OracleDB.
 - Non Relational databases with **MongoDB**.
 
-📝 I also have experience working with **Java**, **Python** and **PHP**.
+📝 I also have experience working with **Python** and **PHP**.
 
-👓 I love to learn new technologies, and I'm currently learning **Node.js** to write JavaScript on the backend, and also automation end-to-end testing with  **Puppeteer**.
+👓 I love to learn new technologies, and I'm currently learning JavaScript automation end-to-end testing with  **Puppeteer** and container management with **Docker**.
 
 ✉ Let's get in contact! Reach me through my [LinkedIn](https://www.linkedin.com/in/carlos-quintana-a82541225/) or my [Porfolio contact form](https://carlos-quintana.github.io/#contact).
