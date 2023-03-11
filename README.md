@@ -8,7 +8,7 @@ I'm Carlos, graduate Software Developer, **currently available for work**.
 💼 [See my web portfolio](https://carlos-quintana.github.io/)
 
 
-I'm passionate about building beautiful web applications, and I'm expanding my skillset for a broader Fullstack range.
+I'm passionate about building beautiful web applications, with a broad skillset for Fullstack development.
 
 
 💻 Some of the technologies I'm working with are:
@@ -21,12 +21,12 @@ Frontend:
 
 Backend:
 - **Node.js**
-- **Spring Boot (Java)**
+- **Laravel (PHP)**
 - **API REST** and **Fetch API**.
 - Relational databases and **SQL** with MariaDB (MySQL), PostgreSQL or OracleDB.
 - Non Relational databases with **MongoDB**.
 
-📝 I also have experience working with **Python** and **PHP**.
+📝 I also have experience working with **Python** and **Java**.
 
 👓 I love to learn new technologies, and I'm currently learning JavaScript automation end-to-end testing with  **Puppeteer** and container management with **Docker**.
 
