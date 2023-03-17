@@ -21,13 +21,13 @@ Frontend:
 - **API REST** and **Fetch API**.
 
 Backend:
-- **Node.js**
-- **Java (Spring Boot)**
-- **Laravel (PHP)**
+- **Node.js**.
+- **Java (Spring Boot)** and **Laravel (PHP)**.
+- MVC architecture and Microservices (API).
 - Relational databases and **SQL** with MariaDB (MySQL), PostgreSQL or OracleDB.
 - Non Relational databases with **MongoDB**.
 
-📝 I also have experience working with **Python**.
+📝 I also have experience working with **Python** for Machine Learning and Data Science.
 
 👓 I love to learn new technologies, and I'm currently learning JavaScript automation end-to-end testing with  **Puppeteer** and container management with **Docker**.
 
