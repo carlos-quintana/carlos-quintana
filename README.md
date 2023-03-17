@@ -17,16 +17,17 @@ Frontend:
 - **HTML 5**, **CSS 3** and **SASS**.
 - **JavaScript** and **TypeScript**.
 - **React JS**.
-- **Angular**
+- **Angular**.
+- **API REST** and **Fetch API**.
 
 Backend:
 - **Node.js**
+- **Java (Spring Boot)**
 - **Laravel (PHP)**
-- **API REST** and **Fetch API**.
 - Relational databases and **SQL** with MariaDB (MySQL), PostgreSQL or OracleDB.
 - Non Relational databases with **MongoDB**.
 
-📝 I also have experience working with **Python** and **Java**.
+📝 I also have experience working with **Python**.
 
 👓 I love to learn new technologies, and I'm currently learning JavaScript automation end-to-end testing with  **Puppeteer** and container management with **Docker**.
 
