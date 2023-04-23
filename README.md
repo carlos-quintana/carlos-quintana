@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I'm Carlos, graduate Software Developer, **currently available for work**.
+I'm Carlos, graduate Software Developer based in Colombia, **currently looking for remote opportunities**.
 
 
 💼 [See my web portfolio](https://carlos-quintana.github.io/)
@@ -16,19 +16,19 @@ I'm passionate about building beautiful web applications, with a broad skillset 
 Frontend:
 - **HTML 5**, **CSS 3** and **SASS**.
 - **JavaScript** and **TypeScript**.
-- **React JS**.
-- **Angular**.
+- Frameworks **React JS** and **Angular**.
 - **API REST** and **Fetch API**.
 
 Backend:
 - **Node.js**.
 - **Java (Spring Boot)** and **Laravel (PHP)**.
 - MVC architecture and Microservices (API).
-- Relational databases and **SQL** with MariaDB (MySQL), PostgreSQL or OracleDB.
+- Relational databases and **SQL** with MySQL, PostgreSQL or SQLServer.
 - Non Relational databases with **MongoDB**.
+- **Docker** and **Azure** Cloud technologies
 
 📝 I also have experience working with **Python** for Machine Learning and Data Science.
 
-👓 I love to learn new technologies, and I'm currently learning JavaScript automation end-to-end testing with  **Puppeteer** and container management with **Docker**.
+👓 I love to learn new technologies, and I'm currently learning JavaScript automation end-to-end testing with **Cypress**.
 
 ✉ Let's get in contact! Reach me through my [LinkedIn](https://www.linkedin.com/in/carlos-quintana-a82541225/) or my [Porfolio contact form](https://carlos-quintana.github.io/#contact).
