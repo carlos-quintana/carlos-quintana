@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I'm Carlos, graduate Software Developer based in Colombia, **currently looking for remote opportunities**.
+I'm Carlos, Software Developer and graduate Engineer based in Colombia, **currently looking for remote opportunities**.
 
 
 💼 [See my web portfolio](https://carlos-quintana.github.io/)
