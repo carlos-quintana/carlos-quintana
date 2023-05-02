@@ -22,10 +22,11 @@ Frontend:
 Backend:
 - **Node.js**.
 - **Java (Spring Boot)** and **Laravel (PHP)**.
-- MVC architecture and Microservices (API).
 - Relational databases and **SQL** with MySQL, PostgreSQL or SQLServer.
-- Non Relational databases with **MongoDB**.
-- **Docker** and **Azure** Cloud technologies
+- Non Relational databases with **MongoDB** and **Redis**.
+- Knowledge of Microservice architectures, TDD and BDD.
+- **Docker** and **Kubernetes**
+- **Azure** Cloud technologies
 
 📝 I also have experience working with **Python** for Machine Learning and Data Science.
 
