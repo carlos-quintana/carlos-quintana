@@ -26,7 +26,7 @@ Backend:
 - Non Relational databases with **MongoDB** and **Redis**.
 - Knowledge of Microservice architectures, TDD and BDD.
 - **Docker** and **Kubernetes**
-- **Azure** Cloud technologies
+- **AWS** Cloud technologies
 
 📝 I also have experience working with **Python** for Machine Learning and Data Science.
 
