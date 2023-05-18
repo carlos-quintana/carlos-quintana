@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I'm Carlos, Software Developer and graduate Engineer based in Colombia, **currently looking for remote opportunities**.
+I'm Carlos, Software Developer and graduate Engineer.
 
 
 💼 [See my web portfolio](https://carlos-quintana.github.io/)
@@ -21,10 +21,10 @@ Frontend:
 
 Backend:
 - **Node.js**.
-- **Java (Spring Boot)** and **Laravel (PHP)**.
+- **Java (Spring Boot)**.
 - Relational databases and **SQL** with MySQL, PostgreSQL or SQLServer.
 - Non Relational databases with **MongoDB** and **Redis**.
-- Knowledge of Microservice architectures, TDD and BDD.
+- Microservices architectures.
 - **Docker** and **Kubernetes**
 - **AWS** Cloud technologies
 
