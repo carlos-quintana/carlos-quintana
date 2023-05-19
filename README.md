@@ -16,8 +16,7 @@ I'm passionate about building beautiful web applications, with a broad skillset 
 Frontend:
 - **HTML 5**, **CSS 3** and **SASS**.
 - **JavaScript** and **TypeScript**.
-- Frameworks **React JS** and **Angular**.
-- **API REST** and **Fetch API**.
+- Frameworks **React** and **Angular**.
 
 Backend:
 - **Node.js**.
