@@ -19,11 +19,10 @@ Frontend:
 - Frameworks **React** and **Angular**.
 
 Backend:
-- **Node.js**.
 - **Java (Spring Boot)**.
 - Relational databases and **SQL** with MySQL, PostgreSQL or SQLServer.
 - Non Relational databases with **MongoDB** and **Redis**.
-- Microservices architectures.
+- Microservices architectures and reactive programming.
 - **Docker** and **Kubernetes**
 - **AWS** Cloud technologies
 
